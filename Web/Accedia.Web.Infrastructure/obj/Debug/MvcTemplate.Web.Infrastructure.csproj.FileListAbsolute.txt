@@ -1,0 +1,7 @@
+D:\C#\Accedia\Web\MvcTemplate.Web.Infrastructure\bin\Debug\MvcTemplate.Web.Infrastructure.dll
+D:\C#\Accedia\Web\MvcTemplate.Web.Infrastructure\bin\Debug\MvcTemplate.Web.Infrastructure.pdb
+D:\C#\Accedia\Web\MvcTemplate.Web.Infrastructure\bin\Debug\AutoMapper.dll
+D:\C#\Accedia\Web\MvcTemplate.Web.Infrastructure\bin\Debug\AutoMapper.xml
+D:\C#\Accedia\Web\MvcTemplate.Web.Infrastructure\obj\Debug\MvcTemplate.Web.Infrastructure.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\Web\MvcTemplate.Web.Infrastructure\obj\Debug\MvcTemplate.Web.Infrastructure.dll
+D:\C#\Accedia\Web\MvcTemplate.Web.Infrastructure\obj\Debug\MvcTemplate.Web.Infrastructure.pdb

@@ -1,0 +1,4 @@
+D:\C#\Accedia\Source\Accedia.Common\bin\Release\Accedia.Common.dll
+D:\C#\Accedia\Source\Accedia.Common\bin\Release\Accedia.Common.pdb
+D:\C#\Accedia\Source\Accedia.Common\obj\Release\Accedia.Common.dll
+D:\C#\Accedia\Source\Accedia.Common\obj\Release\Accedia.Common.pdb

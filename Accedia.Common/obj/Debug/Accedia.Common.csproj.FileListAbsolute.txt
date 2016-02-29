@@ -1,0 +1,8 @@
+D:\C#\Accedia\Source\MvcTemplate.Common\bin\Debug\Accedia.Common.dll
+D:\C#\Accedia\Source\MvcTemplate.Common\bin\Debug\Accedia.Common.pdb
+D:\C#\Accedia\Source\MvcTemplate.Common\obj\Debug\Accedia.Common.dll
+D:\C#\Accedia\Source\MvcTemplate.Common\obj\Debug\Accedia.Common.pdb
+D:\C#\Accedia\Source\Accedia.Common\bin\Debug\Accedia.Common.dll
+D:\C#\Accedia\Source\Accedia.Common\bin\Debug\Accedia.Common.pdb
+D:\C#\Accedia\Source\Accedia.Common\obj\Debug\Accedia.Common.dll
+D:\C#\Accedia\Source\Accedia.Common\obj\Debug\Accedia.Common.pdb

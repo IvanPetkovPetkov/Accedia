@@ -1,0 +1,8 @@
+D:\C#\Accedia\Source\Services\MvcTemplate.Services.Web\bin\Debug\Accedia.Services.Web.dll
+D:\C#\Accedia\Source\Services\MvcTemplate.Services.Web\bin\Debug\Accedia.Services.Web.pdb
+D:\C#\Accedia\Source\Services\MvcTemplate.Services.Web\obj\Debug\Accedia.Services.Web.dll
+D:\C#\Accedia\Source\Services\MvcTemplate.Services.Web\obj\Debug\Accedia.Services.Web.pdb
+D:\C#\Accedia\Source\Services\Accedia.Services.Web\bin\Debug\Accedia.Services.Web.dll
+D:\C#\Accedia\Source\Services\Accedia.Services.Web\bin\Debug\Accedia.Services.Web.pdb
+D:\C#\Accedia\Source\Services\Accedia.Services.Web\obj\Debug\Accedia.Services.Web.dll
+D:\C#\Accedia\Source\Services\Accedia.Services.Web\obj\Debug\Accedia.Services.Web.pdb

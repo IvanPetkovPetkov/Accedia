@@ -1,0 +1,16 @@
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Accedia.Data.Models.dll.config
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Accedia.Data.Models.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Accedia.Data.Models.pdb
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Accedia.Data.Common.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\EntityFramework.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\EntityFramework.SqlServer.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Accedia.Data.Common.pdb
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\EntityFramework.xml
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\EntityFramework.SqlServer.xml
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\obj\Release\Accedia.Data.Models.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\obj\Release\Accedia.Data.Models.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Models\obj\Release\Accedia.Data.Models.pdb

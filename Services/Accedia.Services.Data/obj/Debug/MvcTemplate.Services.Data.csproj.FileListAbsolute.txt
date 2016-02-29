@@ -1,0 +1,17 @@
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\obj\Debug\MvcTemplate.Services.Data.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Services.Data.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Services.Data.pdb
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Data.Common.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Data.Models.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Services.Web.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\EntityFramework.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Data.Common.pdb
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Data.Models.pdb
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\MvcTemplate.Services.Web.pdb
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\EntityFramework.xml
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\obj\Debug\MvcTemplate.Services.Data.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Data\obj\Debug\MvcTemplate.Services.Data.pdb

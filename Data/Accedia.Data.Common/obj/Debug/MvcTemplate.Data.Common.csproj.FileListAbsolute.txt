@@ -1,0 +1,10 @@
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\obj\Debug\MvcTemplate.Data.Common.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\bin\Debug\MvcTemplate.Data.Common.dll.config
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\bin\Debug\MvcTemplate.Data.Common.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\bin\Debug\MvcTemplate.Data.Common.pdb
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\bin\Debug\EntityFramework.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\bin\Debug\EntityFramework.xml
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\obj\Debug\MvcTemplate.Data.Common.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Common\obj\Debug\MvcTemplate.Data.Common.pdb

@@ -1,0 +1,53 @@
+﻿div, span{
+    color: #444444;
+    font-family: 'Courier New';
+}
+
+hr.draw_line{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    border-color: grey;
+}
+
+a.icon{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    margin: 10px;
+}
+
+a.facebook{
+    background-image: url("res/facebook.png");
+}
+
+a.google{
+    background-image: url("res/google.png");
+}
+
+a.twitter{
+    background-image: url("res/twitter.png");
+}
+
+.fancy_black{
+    color: black;
+    font-family: 'Courier New';
+}
+
+.fancy_gray{
+    color: #444444;
+    font-family: 'Courier New';
+}
+
+.fancy_blue{
+    color: cornflowerblue;
+    font-family: 'Courier New';
+}
+
+.main_navbar{
+    background-color: white;
+}

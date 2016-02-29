@@ -1,0 +1,9 @@
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\bin\Release\Accedia.Data.Common.dll.config
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\bin\Release\Accedia.Data.Common.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\bin\Release\Accedia.Data.Common.pdb
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\bin\Release\EntityFramework.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\bin\Release\EntityFramework.SqlServer.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\bin\Release\EntityFramework.xml
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\bin\Release\EntityFramework.SqlServer.xml
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\obj\Release\Accedia.Data.Common.dll
+D:\C#\Accedia\Source\Data\Accedia.Data.Common\obj\Release\Accedia.Data.Common.pdb

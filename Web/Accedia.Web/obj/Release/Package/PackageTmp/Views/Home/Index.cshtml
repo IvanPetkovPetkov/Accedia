@@ -1,0 +1,44 @@
+﻿@model List<Accedia.Web.ViewModels.Home.UserEditModel>
+@{
+    ViewBag.Title = "Списък с регистрации";
+}
+<h1>Регистрирани</h1>
+<hr />
+<div class="row">
+    <div class="col-md-2">
+        <div>Потребител No</div>
+    </div>
+    <div class="col-md-2">
+        <div>Фирма/Име</div>
+    </div>
+    <div class="col-md-2">
+        <div>EMail</div>
+    </div>
+    <div class="col-md-2">
+        <div>Телефон</div>
+    </div>
+    <div class="col-md-2">
+        <div>Skype</div>
+    </div>
+</div>
+<hr />
+<div class="row">
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <div class="col-md-2">
+            <div>No @i</div>
+        </div>
+        <div class="col-md-2">
+            <div>@Model[i].Company</div>
+        </div>
+        <div class="col-md-2">
+            <div>@Model[i].EMail</div>
+        </div>
+        <div class="col-md-2">
+            <div>@Model[i].Phone</div>
+        </div>
+        <div class="col-md-2">
+            <div>@Model[i].Skype</div>
+        </div>
+    }
+</div>

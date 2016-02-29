@@ -1,0 +1,6 @@
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\bin\Release\Accedia.Web.Infrastructure.dll
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\bin\Release\Accedia.Web.Infrastructure.pdb
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\bin\Release\AutoMapper.dll
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\bin\Release\AutoMapper.xml
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\obj\Release\Accedia.Web.Infrastructure.dll
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\obj\Release\Accedia.Web.Infrastructure.pdb

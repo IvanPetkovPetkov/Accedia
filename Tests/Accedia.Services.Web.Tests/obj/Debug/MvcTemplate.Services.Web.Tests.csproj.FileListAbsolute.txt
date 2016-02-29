@@ -1,0 +1,9 @@
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\MvcTemplate.Services.Web.Tests.dll
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\MvcTemplate.Services.Web.Tests.pdb
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\MvcTemplate.Services.Web.dll
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\nunit.framework.dll
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\MvcTemplate.Services.Web.pdb
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\bin\Debug\nunit.framework.xml
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\obj\Debug\MvcTemplate.Services.Web.Tests.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\obj\Debug\MvcTemplate.Services.Web.Tests.dll
+D:\C#\Accedia\Tests\MvcTemplate.Services.Web.Tests\obj\Debug\MvcTemplate.Services.Web.Tests.pdb

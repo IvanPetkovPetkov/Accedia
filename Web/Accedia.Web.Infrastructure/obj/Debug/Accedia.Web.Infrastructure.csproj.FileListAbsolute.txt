@@ -1,0 +1,12 @@
+D:\C#\Accedia\Source\Web\MvcTemplate.Web.Infrastructure\bin\Debug\Accedia.Web.Infrastructure.dll
+D:\C#\Accedia\Source\Web\MvcTemplate.Web.Infrastructure\bin\Debug\Accedia.Web.Infrastructure.pdb
+D:\C#\Accedia\Source\Web\MvcTemplate.Web.Infrastructure\bin\Debug\AutoMapper.dll
+D:\C#\Accedia\Source\Web\MvcTemplate.Web.Infrastructure\bin\Debug\AutoMapper.xml
+D:\C#\Accedia\Source\Web\MvcTemplate.Web.Infrastructure\obj\Debug\Accedia.Web.Infrastructure.dll
+D:\C#\Accedia\Source\Web\MvcTemplate.Web.Infrastructure\obj\Debug\Accedia.Web.Infrastructure.pdb
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\bin\Debug\Accedia.Web.Infrastructure.dll
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\bin\Debug\Accedia.Web.Infrastructure.pdb
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\bin\Debug\AutoMapper.dll
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\bin\Debug\AutoMapper.xml
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\obj\Debug\Accedia.Web.Infrastructure.dll
+D:\C#\Accedia\Source\Web\Accedia.Web.Infrastructure\obj\Debug\Accedia.Web.Infrastructure.pdb

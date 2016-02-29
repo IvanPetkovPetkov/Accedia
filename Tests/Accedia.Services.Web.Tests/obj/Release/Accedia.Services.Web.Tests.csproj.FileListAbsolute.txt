@@ -1,0 +1,9 @@
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\bin\Release\Accedia.Services.Web.Tests.dll
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\bin\Release\Accedia.Services.Web.Tests.pdb
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\bin\Release\Accedia.Services.Web.dll
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\bin\Release\nunit.framework.dll
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\bin\Release\Accedia.Services.Web.pdb
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\bin\Release\nunit.framework.xml
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\obj\Release\Accedia.Services.Web.Tests.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\obj\Release\Accedia.Services.Web.Tests.dll
+D:\C#\Accedia\Source\Tests\Accedia.Services.Web.Tests\obj\Release\Accedia.Services.Web.Tests.pdb

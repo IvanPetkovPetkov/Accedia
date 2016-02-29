@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MvcRouteTester.Mvc5.2</id>
+    <version>2.0.1</version>
+    <authors>Anthony Steele</authors>
+    <owners>Anthony Steele</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>http://github.com/AnthonySteele/MvcRouteTester</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MvcRouteTester is a .Net library to help unit testing ASP MVC route tables. It contains asserts for for both regular controllers and the Api controllers that are new in MVC 4.0. It is built in .Net 4.5 and ASP MVC 5.2.3. See the project page for packages for ASP MVC 51, 5.0 and ASP MVC 4.0</description>
+    <releaseNotes>Updated.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>ASP MVC Route Test NUnit UnitTest API ApiController</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="7.0.1" />
+      <dependency id="Microsoft.AspNet.Mvc" version="5.2.3" />
+    </dependencies>
+  </metadata>
+</package>

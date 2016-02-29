@@ -1,0 +1,5 @@
+D:\C#\Accedia\Services\MvcTemplate.Services.Web\bin\Debug\MvcTemplate.Services.Web.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Web\bin\Debug\MvcTemplate.Services.Web.pdb
+D:\C#\Accedia\Services\MvcTemplate.Services.Web\obj\Debug\MvcTemplate.Services.Web.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\Services\MvcTemplate.Services.Web\obj\Debug\MvcTemplate.Services.Web.dll
+D:\C#\Accedia\Services\MvcTemplate.Services.Web\obj\Debug\MvcTemplate.Services.Web.pdb

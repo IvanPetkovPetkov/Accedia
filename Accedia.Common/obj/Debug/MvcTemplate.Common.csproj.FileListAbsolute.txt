@@ -1,0 +1,5 @@
+D:\C#\Accedia\MvcTemplate.Common\bin\Debug\MvcTemplate.Common.dll
+D:\C#\Accedia\MvcTemplate.Common\bin\Debug\MvcTemplate.Common.pdb
+D:\C#\Accedia\MvcTemplate.Common\obj\Debug\MvcTemplate.Common.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\MvcTemplate.Common\obj\Debug\MvcTemplate.Common.dll
+D:\C#\Accedia\MvcTemplate.Common\obj\Debug\MvcTemplate.Common.pdb

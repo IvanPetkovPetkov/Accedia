@@ -1,0 +1,16 @@
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\obj\Debug\MvcTemplate.Data.Models.csprojResolveAssemblyReference.cache
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\MvcTemplate.Data.Models.dll.config
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\MvcTemplate.Data.Models.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\MvcTemplate.Data.Models.pdb
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\EntityFramework.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\MvcTemplate.Data.Common.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\MvcTemplate.Data.Common.pdb
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\EntityFramework.xml
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\obj\Debug\MvcTemplate.Data.Models.dll
+D:\C#\Accedia\Data\MvcTemplate.Data.Models\obj\Debug\MvcTemplate.Data.Models.pdb

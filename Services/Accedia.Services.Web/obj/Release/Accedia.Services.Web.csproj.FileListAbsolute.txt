@@ -1,0 +1,4 @@
+D:\C#\Accedia\Source\Services\Accedia.Services.Web\bin\Release\Accedia.Services.Web.dll
+D:\C#\Accedia\Source\Services\Accedia.Services.Web\bin\Release\Accedia.Services.Web.pdb
+D:\C#\Accedia\Source\Services\Accedia.Services.Web\obj\Release\Accedia.Services.Web.dll
+D:\C#\Accedia\Source\Services\Accedia.Services.Web\obj\Release\Accedia.Services.Web.pdb
